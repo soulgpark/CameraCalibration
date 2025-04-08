@@ -1,9 +1,9 @@
 # CameraCalibration
-Calibrate camera images and correct lens distortion
+Calibrate camera images using a chessboard pattern and correct lens distortion
 
 ## Features
-- Take a video of the chessboard using your laptop webcam.
-- Calibrate using camera images.
+- Take a video of the chessboard using laptop webcam.
+- Calibrate with camera images.
 - Use the results to correct lens distortion.
 
 ## Camera calibration result
