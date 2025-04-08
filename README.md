@@ -26,4 +26,5 @@ Loaded distortion coefficients:
 
 ## Lens distortion correction output
 
-![image](https://github.com/user-attachments/assets/61785d2f-1d93-47c5-b99c-3cf4ee334c39)
+![image](https://github.com/user-attachments/assets/4fb1aea1-f082-47ff-9600-612cd0085f5d)
+
